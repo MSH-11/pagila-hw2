@@ -20,5 +20,5 @@ GROUP BY
         EXTRACT (YEAR FROM rental_date),
         EXTRACT (MONTH FROM rental_date)
         )
-ORDER BY "Year";
+ORDER BY "Year", "Month", "Total Rentals";
 

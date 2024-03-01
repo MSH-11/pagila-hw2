@@ -11,4 +11,5 @@ where fa.film_id in (
         select film_id, unnest(special_features) as special_feature
         from film) as feature
     where special_feature = 'Behind the Scenes'
-);
+    )
+order by "Actor Name";
