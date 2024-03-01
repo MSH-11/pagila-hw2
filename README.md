@@ -14,7 +14,7 @@ This is the second SQL homework in CMC's CSCI143: Big Data class.
     The following steps should walk you through this procedure.
 
     1. Create a repo on github named `pagila-hw2`.
-        (It should be an empty repo, not pre-populated with any files.)
+        (It should be an empty repo, not pre-populated with any files. )
 
     1. Then run the following commands to populate your new repo from this repo.
 
